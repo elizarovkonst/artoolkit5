@@ -7,8 +7,8 @@ OSG/axes.osg
 MARKER 1
 LIGHTING 0
 
-OSG/p51d-jw-animated.osg
-4.5 118.25 30.0
-90.0 1.0 0.0 0.0
-25.0 25.0 25.0
+OSG/epam/human.osg
+270.0 130.0 30.0
+270.0 1.0 0.0 0.0
+0.4 0.4 0.4
 MARKER 1
